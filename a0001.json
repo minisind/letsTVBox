@@ -1,9 +1,9 @@
 {
   "spider": "./js/fty.jar;md5;58adbd51a4bbed437f442e4e9a4c85c2",
   "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
-  "warningText": "资源来自网络，所有内容仅供学习使用，请勿用于违法及商业用途，请勿付费购买。",
+  "warningText": "资源来自网络，所有内容仅供学习使用。",
   "sites": [
-    {"key": "豆瓣","name": "🌕┃豆瓣┃软件接口皆是免费,禁止贩卖『个人自用』💢v2312","type": 3,"api": "csp_DouDou","searchable": 0,"quickSearch": 0,"filterable": 0},
+    {"key": "豆瓣","name": "🌕┃豆瓣┃💢v2312","type": 3,"api": "csp_DouDou","searchable": 0,"quickSearch": 0,"filterable": 0},
     {"key": "dr_豆瓣","name": "🌞豆瓣┃Js","type": 3,"api": "./js/drpy2.min.js","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "./js/豆瓣.js"},
     {"key": "csp_KungFu404","name": "🔥设置Token","type": 3,"api": "csp_KungFu404","searchable": 0,"filterable": 0,"changeable": 0,"ext": "http://127.0.0.1:9978/file/tvbox/token.txt","jar": "./js/alibaba.jar"},
     {"key": "商店","name": "🎰蜂蜜商店","type": 3,"api": "csp_Market","searchable": 0,"changeable": 0,"ext": "https://fm.t4tv.hz.cz/json/market.json","jar": "./js/app.jar"},
@@ -151,7 +151,7 @@
   ],
   "doh": [
     {"name": "Google","url": "https://dns.google/dns-query","ips": [  "8.8.4.4",  "8.8.8.8"] },
-    {"name": "Cloudflare","url": "https://cloudflare-dns.com/dns-query","ips": [  "1.1.1.1",  "1.0.0.1",  "2606:4700:4700::1111",  "2606:4700:4700::1001"] },
+    {"name": "Cloudflare","url": "https://cloudflare-dns.com/dns-query","ips": [  "1.1.1.1",  "1.0.0.1" ] },
     {"name": "AdGuard","url": "https://dns.adguard.com/dns-query","ips": [  "94.140.14.140",  "94.140.14.141"] },
     {"name": "DNSWatch","url": "https://resolver2.dns.watch/dns-query","ips": [  "84.200.69.80",  "84.200.70.40"] },
     {"name": "Quad9","url": "https://dns.quad9.net/dns-quer","ips": [  "9.9.9.9",  "149.112.112.112"]  }
